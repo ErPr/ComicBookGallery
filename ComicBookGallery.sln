@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicBookGallery", "ComicBookGallery\ComicBookGallery.csproj", "{56447B20-BBAF-4C4A-A9E8-38CD2DA42C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56447B20-BBAF-4C4A-A9E8-38CD2DA42C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56447B20-BBAF-4C4A-A9E8-38CD2DA42C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56447B20-BBAF-4C4A-A9E8-38CD2DA42C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56447B20-BBAF-4C4A-A9E8-38CD2DA42C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE81AA7B-3868-4269-A0F8-AD112828C78A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ericpricevsts.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ComicBookGallery\\ComicBookGallery.csproj
+		SccProjectName1 = ComicBookGallery
+		SccLocalPath1 = ComicBookGallery
+	EndGlobalSection
+EndGlobal
